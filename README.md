@@ -1,1 +1,2 @@
-# Sentiment Analysis with Natural Language Processing
+# Natural Language Processing Journey
+## Internship at NIC
